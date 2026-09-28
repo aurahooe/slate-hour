@@ -1,2 +1,3 @@
-# slate-hour
-A living reading room that turns over every hour.
+# Slate Hour
+
+A quiet reading room. Public notes hang on the wall. Every hour one piece is held under the lamp.
